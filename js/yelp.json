@@ -1,0 +1,97 @@
+{
+    "reviews": [
+        {
+            "id": 0,
+            "name": "Chris Truman",
+            "desc": "We needed high speed internet for a large event we were holding. The space didn't have fiber and copper wasn't going to cut it. We asked around and found out that WiLine could supply high speed internet by using microwave technology and beam the signal to the venue's roof. More importantly they were able to pull this off in a few days which is what really impressed us. The event went great and we had no issues with speed. The head count for the event was over 200 people and didn't have one complaint.<br> Thank you WiLine for the great service. ",
+            "rating": 5,
+            "img": "img/0.jpg",
+            "logo": "google"
+        },
+
+        {
+            "id": 1,
+            "name": "David B.",
+            "desc": "We had to move our office on short notice. WiLine came out and did an excellent job setting everything up, routing our internet between floors and getting us up and running within a few hours. Rick was an awesome tech. He was extremely patient and helpful.",
+            "rating": 5,
+            "img": "img/yelp-photos/1.jpg",
+            "logo": "yelp"
+        },
+
+        {
+            "id": 2,
+            "name": "Anderson C.",
+            "desc": "My Rep Mike T. is always helpful and quick to assist with all our requests. our company uses both their ISP and Hosted PBX and haven't ran into any major issues for the past 4 years.<br><br> Minor degradation's were experienced over the years but technicians were quick to respond 100% of the time. <br><br> Thanks, Anderson",
+            "rating": 5,
+            "img": "img/yelp-photos/12.png"
+        },
+
+        {
+            "id": 3,
+            "name": "Mark N.",
+            "desc": "We are coming up on the end of our contract with Wiline and we have been extremely happy with their service they have provided. <br><br>I was in the area and decided to stop by and renew my contract in person with my sales rep, even on this rainy day. We have 100 mb up and down symmetrical service with not one problem this entire year. My sales rep has been super helpful and I even got a Christmas card from him.",
+            "rating": 5,
+            "img": "img/yelp-photos/3.jpg"
+        },
+
+        {
+            "id": 4,
+            "name": "Lindsey Green",
+            "desc": "We run a call center and needed both phone and internet for our building. We needed a batch of static IP's and we needed high bandwidth with the same speed up and down. After going through 5 different providers we decided on WiLine for a few reasons: 1. Service Level Agreement guaranteeing speed and uptime  2. Bet speed/price compared to competitors 3. Needed quick install, 1 week (couldn't wait a month or more) 4. They were personally recommended by 2 different friends 5. We had used them for a one day event and they surpassed our exceptions I would suggest you do you research and you will discover what we discovered.",
+            "rating": 5,
+            "img": "img/0.jpg",
+            "logo": "google"
+        },
+
+        {
+            "id": 5,
+            "name": "Julia Flannor",
+            "desc": "I have a small company and I don't need 1GB of speed or anything I just want fast and reliable internet access for my business at the best price. I did a ton of research and in the ended selected WiLine. They beat the lowest competitor price by 10% and also gave me 25% more speed than what the competitors was offering. I am so happy I decided ton write a review and I never write reviews. My account executive, Clinton, was incredible and I recommend WiLine to all small businesses.  ",
+            "rating": 5,
+            "img": "img/0.jpg"
+        },
+
+
+                {
+            "id": 6,
+            "name": "Doug R.",
+            "desc": "I chose Wiline for our startup's ISP for 3 reasons:<br><br>   1. Dedicated, symmetric bandwidth <br>2. Fast installation time (less than 2 weeks)<br> 3. Cost.br <br><br> We've had Wiline for 3 months now and have not experienced an outage. Once I disconnected their network equipment because of some construction we were doing in the office, and I was almost immediately contacted by Wiline support asking if I was experiencing a network outage.<br>",
+            "rating": 5,
+            "img": "img/yelp-photos/4.jpg"
+        },
+
+
+                {
+            "id": 7,
+            "name": "Ryan W.",
+            "desc": "We had WiLine for several years and our service worked well. Eventually there became less expensive options available in our area which WiLine was able to match. That helped us a lot.",
+            "rating": 5,
+            "img": "img/yelp-photos/5.jpg"
+        },
+
+                {
+            "id": 8,
+            "name": "Hunter D.",
+            "desc": "<p> We've used WiLine for the last two years as our private dedicated circuit - a point-to-point service from our office to our data center.  The P2P service offers incredibly consistent speeds very close to the 100MB up/down rating -- we generally see 95MB+ on up/down speed tests. <br><br> Though there were some initial hiccups with WiLine as they built out their network, they've continued to add nodes and redundancy to ensure the network is always up and running - if one node goes down there's always mutliple failovers.</p>",
+            "rating": 5,
+            "img": "img/yelp-photos/6.jpg"
+        },
+
+        {
+            "id": 9,
+            "name": "Nathan Wells",
+            "desc": "We were using AT&T asymmetrical service but we have gotten to a point where we need a guaranteed up and down internet speed (symmetrical) with a SLA (Service Level Agreement). Originally we were going to just upgrade with At&T but a colleague said to get a quote from WiLine first because they were using them and were very happy. So we gave Wiline a call and not only did they beat At&T's price but they also gave us more speed than what AT&T was offering and it was installed in a week. Glad we did a little bit more research because it has paid off.",
+            "rating": 5,
+            "img": "img/0.jpg"
+        },
+
+        {
+            "id": 10,
+            "name": "Julia Redfern",
+            "desc": "We hired Wiline for an event in Palo Alto that we needed to get Internet for. We could not find any options to get Internet to the event until someone suggested Wiline. The event went off without a hitch and we had blazing fast wifi connection for our guests. We were very satisfied with the top notch service they provided but we should have gave them more notice before the event because they were almost not able to pull it off in just the few days notice that we gave them.",
+            "rating": 5,
+            "img": "img/0.jpg"
+        }
+
+    ]
+}

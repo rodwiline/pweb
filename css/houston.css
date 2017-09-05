@@ -1,0 +1,339 @@
+html {
+    font-size: 3vw;
+}
+
+body {
+    background-color: #D6E8FF;
+}
+.small {
+    font-size: 0.7em;
+}
+.hide {
+    display: none;
+}
+.title {
+    font-size:3em;
+    font-family:'Raleway', sans-serif;
+    line-height: 1em;
+    color: #074481;
+}
+div.og > span {
+    color: #FF7300;
+}
+.title {
+    padding: 0px 16px 0px 0px;
+    margin-top:24px;
+}
+.pkg-container {
+    background-color: rgba(222,222,222, 0.9);
+    border: 1px solid #222;
+    padding: 25px;
+}
+
+.plan-info > .col-capsule:first-child {
+    margin-left:0;
+    padding-left: 0;
+}
+
+.plan-info > .col-capsule:nth-child(3) {
+    margin-right:0;
+    padding-right: 0;
+}
+
+.pkg-box {
+    margin-top: 20px;
+    background-color: white;
+    padding: 24px 16px;
+    border: 2px solid #333;
+    z-index: 10;
+}
+
+.pkg-box div>i {
+    color: #074481;
+}
+
+.desc-target div {
+    font-size: 0.8em;
+}
+
+.summary-container {
+    background: rgba(7, 68, 129, 0.9);
+    border:2px solid #efefef;
+    min-height: 35vw;
+    max-height: auto;
+    overflow: visible;
+}
+
+.more-info {
+    background: rgba(55,55,55,0.9);
+    border:2px solid #efefef;
+    padding:5px 10px;
+    color: white;
+    min-height: 13vw;
+    max-height: auto;
+    overflow: visible;
+    clear: both;
+}
+
+.more-info p.large-font {
+    font-size: 1.4em;
+    font-weight: 400;
+}
+
+.more-info p.large-font a:hover {
+    font-size: 1.5em;
+    font-weight: 400;
+    transition: 0.5s;
+    color: #FF7300;
+}
+
+
+/* Buttons */
+
+.btn-submit {
+    font-family: 'Roboto', Helvetica, Arial, sans-serif;
+    padding: 0 26px;
+    height: 40px;
+    min-width: 150px;
+    line-height: 36px;
+    font-size: 12px;
+    font-weight: 700;
+    border-radius: 0;
+    color: #074481;
+    text-align: center;
+    margin-right: 8px;
+    margin-bottom: 24px
+}
+.btn.btn-submit:hover {
+    background-color: white;
+    color: #074481;
+    transition: 0.5s;
+}
+
+/* Media Responsive Styles */
+
+@media screen and (max-width: 990px) {
+    .summary-container {
+        display: block;
+        clear: both;
+        margin-top: 24px;
+    }
+    .col-capsule {
+        margin: 0;
+        padding: 0;
+        display: flex;
+    }
+    .plan-info {
+        margin: 0px 5px;
+        padding: 0;
+    }
+    .more-info {
+        display: block;
+        clear:both;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .pkg-box {
+        margin-bottom: 5px;
+    }
+}
+
+.billing-info {
+    display:none;
+}
+
+#guarantee {
+    display: none;
+}
+
+/* Dynamic Summary */
+
+.sumUp {
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-size: 1.9em;
+    font-weight: 600;
+    text-align: center;
+    color: greenyellow;
+}
+
+
+.sumDown {
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-size: 1.9em;
+    font-weight: 600;
+    text-align: center;
+    color: orangered;
+}
+.priceSum {
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-size: 1.9em;
+    font-weight: 300;
+    text-align: center;
+}
+
+#priceSum {
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-size: 2em;
+}
+
+@media screen and (min-width:1200px) {
+    padding-bottom: 500em;
+    margin-bottom: -500em;
+}
+
+.ofh {
+    overflow: hidden;
+}
+
+/* Form Elements */
+
+
+select > option {
+    text-indent: 5px;
+}
+
+.pkg-box select {
+    font-size: 13px;
+    height: 40px;
+    margin-bottom: 5px;
+    color: #074481;
+    background: url(img/arrow-down.png) no-repeat right #efefef; /* Arrow */
+}
+.pkg-box select[disabled] {
+    color: #aaa;
+}
+
+.pkg-box select > option {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+}
+
+.pkg-box select > [disabled] option {
+    color: #aaa;
+}
+
+input.houston {
+    font-family: 'Roboto', Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 13px;
+    color: rgba(0,0,0,0.5);
+    background: #eee;
+    padding: 10px;
+    border: none;
+    width: 100%;
+    height: 40px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    border-radius: 0
+}
+
+#busContactForm select, #insContactForm select {
+    height: 50px;
+}
+.control input  {
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+}
+
+/* control pseudo classes */
+
+.control:hover input ~ .check-box,
+.control input:focus ~ .check-box {
+    background: #ccc;
+}
+
+.control input:checked ~ .check-box {
+    background: #2aa1c0;
+}
+
+/* Hover state whilst checked */
+.control:hover input:not([disabled]):checked ~ .check-box,
+.control input:checked:focus ~ .check-box {
+    background: #074481;
+}
+
+/* Check mark */
+.check-box:after {
+    position: absolute;
+    display: none;
+    content: '';
+}
+
+/* Show check mark */
+.control input:checked ~ .check-box:after {
+    display: block;
+}
+
+/* Checkbox tick */
+.control--checkbox .check-box:after {
+    top: 4px;
+    left: 8px;
+    width: 3px;
+    height: 8px;
+    transform: rotate(45deg);
+    border: solid #fff;
+    border-width: 0 2px 2px 0;
+}
+
+.check-box {
+    position: absolute;
+    top: 6px;
+    left: 3px;
+    width: 20px;
+    height: 20px;
+    background: #e6e6e6;
+    margin: 10px;
+}
+
+.checkbox-label {
+    margin-left: 25px;
+}
+
+.speed, .installDate > p {
+    line-height: 48px;
+}
+
+#installDate {
+    padding-left: 15px;
+}
+
+#installDate::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: #074481;
+    font-size: 13px;
+}
+#installDate::-moz-placeholder { /* Firefox 19+ */
+    color: #074481;
+    font-size: 13px;
+}
+#installDate:-ms-input-placeholder { /* IE 10+ */
+    color: #074481;
+    font-size: 13px;
+}
+#installDate:-moz-placeholder { /* Firefox 18- */
+    color: #074481;
+    font-size: 13px;
+}
+
+.ui-datepicker-header {
+    background-color: dodgerblue !important;
+    color: white;
+}
+
+/* Modals */
+
+.modal-header {
+    background-color: #074481;
+}
+
+button.close {
+    color: #ff7300;
+    text-shadow: 0 1px 0 #0f0f0f;
+    opacity: 1;
+}
+
+.modal-header h4 {
+    color: #ff7300;
+}

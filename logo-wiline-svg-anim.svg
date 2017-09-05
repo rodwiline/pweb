@@ -1,0 +1,72 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 478.476 190.49" style="enable-background:new 0 0 478.476 190.49;" xml:space="preserve">
+    <defs>
+    <style type="text/css">
+        .st0{fill:#FFFFFF;}
+        .st1{fill:none;stroke:#FFFFFF;stroke-width:1.35;stroke-miterlimit:10;}
+        
+        #logo1 {
+            stroke-dasharray: 1100;
+            stroke-dashoffset: 0;
+            -webkit-animation: dash 3s linear forwards;
+            -o-animation: dash 3s linear forwards;
+            -moz-animation: dash 3s linear forwards;
+            animation: dash 3s linear forwards;
+        }
+        
+        .st1:hover {fill:#ffffff;}
+        
+        @-webkit-keyframes dash {
+            from {
+                stroke-dashoffset: 1100;
+            }
+            to {
+                stroke-dashoffset:0;
+            }
+        }
+        
+        #logo2 {
+            stroke-dasharray: 1000;
+            stroke-dashoffset: 0;
+            -webkit-animation: dash 3s linear forwards;
+            -o-animation: dash 3s linear forwards;
+            -moz-animation: dash 3s linear forwards;
+            animation: dash 3s linear forwards;
+        }
+        
+        @-webkit-keyframes dash {
+            from {
+                stroke-dashoffset: 1000;
+            }
+            to {
+                stroke-dashoffset:0;
+            }
+        }
+    </style>
+        <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+        <script>
+            $(document).ready(function() {
+                $(".st1").delay(3000).addClass("fill);
+            });
+        </script>
+</defs>
+<path class="st0" d="M94.668,144.353l-19.932-72.61h20.303c0,0,9.964,44.1,11.353,52.693h0.229
+	c1.394-9.221,12.563-52.693,12.563-52.693h20.207c0,0,9.964,42.858,11.169,52.184h0.275c1.252-9.326,11.678-52.184,11.678-52.184
+	h19.331l-21.692,72.61H139.62c0,0-9.083-43.472-11.073-53.256h-0.234c-2.27,9.4-12.838,53.256-12.838,53.256H94.668"/>
+<rect x="183.628" y="83.469" class="st0" width="18.909" height="60.886"/>
+<polygon class="st0" points="209.836,71.741 228.745,71.741 228.745,128.409 262.111,128.409 262.111,144.352 209.836,144.352 "/>
+<rect x="266.707" y="83.469" class="st0" width="18.909" height="60.886"/>
+<path class="st0" d="M291.496,102.892c0-7.593-0.229-13.948-0.463-19.427h16.406l0.88,8.473h0.371
+	c2.503-3.994,8.62-9.853,18.817-9.853c12.421,0,21.779,8.345,21.779,26.287v35.98h-18.909v-33.738c0-7.84-2.733-13.196-9.592-13.196
+	c-5.236,0-8.34,3.604-9.73,7.089c-0.514,1.238-0.605,2.989-0.605,4.741v35.104h-18.955V102.892"/>
+<path class="st0" d="M371.494,119.819c0.605,7.978,8.345,11.706,17.194,11.706c6.442,0,11.683-0.876,16.777-2.609l2.503,12.829
+	c-6.208,2.609-13.81,3.851-22.013,3.851c-20.716,0-32.536-11.953-32.536-31.138c0-15.433,9.734-32.499,30.776-32.499
+	c19.647,0,27.158,15.333,27.158,30.386c0,3.237-0.371,6.108-0.651,7.593L371.494,119.819 M393.787,106.866
+	c0-4.48-1.995-12.32-10.61-12.32c-8.065,0-11.312,7.35-11.821,12.32H393.787z"/>
+<path class="st1" id="logo1" d="M29.182,91.815C35.39,47.921,134.801,25.61,251.314,41.97c35.457,4.989,68.406,12.985,96.912,22.926
+	c-32.724-13.091-72.578-23.659-116.192-29.785C113.53,18.466,12.45,40.782,6.242,84.955c-4.961,35.439,52.601,74.151,136.67,96.696
+	C71.59,158.895,24.688,124.016,29.182,91.815"/>
+<path class="st1" id="logo2" d="M344.283,182.49c60.295-3.833,102.794-21.403,107.801-49.162c7.877-43.912-81.152-96.659-198.917-117.838
+	c-23.311-4.182-46.021-6.827-67.475-8.015c27.153,0.225,56.911,2.994,87.778,8.542C389.24,36.824,476.785,89.067,468.907,132.7
+	C463.483,163.063,413.29,181.247,344.283,182.49"/>
+</svg>
