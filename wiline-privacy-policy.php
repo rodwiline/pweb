@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Privacy is Important to Us | WiLine Networks Inc</title>
+    <link rel="canonical" href="https://www.wiline.com/wiline-privacy-policy.php">
     <meta name=robots content="noindex, nofollow, archive">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <link href=https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css rel="stylesheet" media="all">
@@ -80,7 +81,7 @@
                 </div>
             </section>
             <div class="container">
-                <div class="row col-lg-12 col-xs-12 privacy" style="margin-top:100px;">
+                <div class="row col-lg-12 col-xs-12 privacy mb40" style="margin-top:100px;">
                     <h3 id="read">Wiline Networks Privacy Policy</h3>
                     <p class="privacy">This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
                         <p class="strong">What personal information do we collect from the people that visit our blog, website or app?</p>
@@ -88,7 +89,7 @@
                         <p class="strong">When do we collect information?</p>
                         <p class="privacy">WiLine collects information from you when you fill out a form, Open a Support Ticket or enter information on our site.</p>
                         <p class="strong">How does WiLine use your information?</p>
-                        <p class="privacy">We may use the information collected from you when you register, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+                    <p class="privacy">We may use the information collected from you when you register, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:</p>
                             <ol>
                                 <li>To allow us to better service you in responding to your customer service enquiries.</li>
                                 <br>
@@ -96,7 +97,6 @@
                                 <br>
                                 <li>To follow up with them after correspondence. (live chat, email or phone inquiries)</li>
                             </ol>
-                        </p>
                         <p class="strong">How do we protect visitor information?
                             <ul>
                                 <li>WiLine does not use vulnerability scanning and/or scanning to PCI standards.</li>
@@ -178,7 +178,6 @@
                             <br /> 1-888-494-5463
                             <br />Last Edited on 2016-05-23
                             <br />
-                        </p>
                 </div>
             </div>       <?php include 'footer.html';?>
 
