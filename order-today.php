@@ -22,8 +22,8 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
     <link rel="canonical" href="https://www.wiline.com/order-now.php">
     <meta name="description" content="For Data and Voice Sales or Support, Contact WiLine Business Support CSA's. We are open 24x7x365. At WiLine, we put you first, always.">
     <meta name="keywords" content="Business Internet, Business Phone">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <link href=https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css rel="stylesheet" media="all">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" media="all">
     <link href="css/theme-wiline.min.css" type="text/css" rel="stylesheet" media="all">
     <link href="https://fonts.googleapis.com/css?family=Raleway:300,600|Roboto:400,700" rel="stylesheet">
     <link rel="stylesheet" href="css/themify-icons.sm.css">
