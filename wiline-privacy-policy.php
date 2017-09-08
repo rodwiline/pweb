@@ -7,8 +7,8 @@
     <title>Your Privacy is Important to Us | WiLine Networks Inc</title>
     <link rel="canonical" href="https://www.wiline.com/wiline-privacy-policy.php">
     <meta name=robots content="noindex, nofollow, archive">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <link href=https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css rel="stylesheet" media="all">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href=https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css rel="stylesheet" media="all">
     <link rel="stylesheet" href="https://www.wiline.com/css/themify-icons.sm.css">
     <link href="https://www.wiline.com/css/theme-wiline.css" type="text/css" rel="stylesheet" media="all">
     <link rel="stylesheet" href="https://www.wiline.com/css/aos.css" type="text/css" media="all">
@@ -76,7 +76,7 @@
                     <div class="row">
                         <div class="mb40 col-sm-12 col-md-12">
                             <h1 class="col-sm-12 large">WiLine Networks, Inc</h1>
-                            <h3 style="padding-left: 20px;">Online Privacy Policy</h3> <a class="btn btn-lg inner-link" href="#read" style="margin-left: 20px;">Read</a></div>
+                            <h2 style="padding-left: 20px;">Our Privacy Policy</h2> <a class="btn btn-lg inner-link" href="#read" style="margin-left: 20px;">Read</a></div>
                     </div>
                 </div>
             </section>

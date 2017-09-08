@@ -30,6 +30,9 @@
         p {
             font-size: 1.7rem;
         }
+        h2 {
+            font-size: 3.5rem;
+        }
         @media all and (max-width: 768px) {
             #order-business-internet {
                 margin-right:1%;
@@ -56,17 +59,18 @@
             <div class="container readable" id="order-business-internet">
                 <div class="row col-xs-12 col-sm-6">
                     <div class="col-xs-12 p0">
-                        <div class="col-xs-12 pt160">
-                            <h4>Fill this simple form and we will be in touch...</h4>
+                        <div class="col-xs-12 pt40">
+                            <h2 class="mb0">Business Internet Service</h2>
+                            <h5 class="uppercase">Request More Information</h5>
                             <form id="contactForm" class="form-email" data-success="Thank you for your contact. We will be in touch shortly." data-error="Some fields have been filled incorrectly.">
                                 <input type="text" class="validate-required" name="name" placeholder="Your Name">
                                 <!--<input type="text" class="" name="email" placeholder="Your Email Address">-->
-                                <input type="text" class="validate-required" name="business" placeholder="Your Business Name">
+                                <!--<input type="text" class="validate-required" name="business" placeholder="Your Business Name">-->
                                 <input type="text" class="validate-required" name="phone" placeholder="Your Telephone">
                                 <input type="text" class="validate-required" name="street" placeholder="Your Street Address">
-                               <!-- <input type="text" class="validate-required" name="city" placeholder="City of Your Business">-->
+                                <input type="text" class="validate-required" name="city" placeholder="City of Your Business">
                                 <input type="hidden" class="antispam" name="url">
-                               <!-- <textarea class="validate-required" name="message" rows="4" placeholder="Your Message"></textarea>-->
+                                <textarea class="validate-required" name="message" rows="4" placeholder="Your Message"></textarea>
                                 <div class="g-recaptcha" data-sitekey="6Lfeoh8TAAAAALE5Tlz5Ju7g4MQx7zfm-Q2vySa4"></div> <br />
                                 <input name="submit" type="submit" value="Contact WiLine" id="submit" onClick="ga('send', 'event', { eventCategory: 'Sales Forms', eventAction: 'Form Submit', eventLabel: 'OrderForm Submission'});">
                             </form>
@@ -78,25 +82,15 @@
                     <div class="col-xs-12 p0">
                         <div class="col-xs-12 pt40">
                             <h4 class="uppercase wiline-color" style="font-size:190%;">Get a Quote Today</h4>
-                            <p class="text-justify"> In order to verify the availability of our services in your area, we need to know a little about your business. We will contact you shortly with a connectivity solution that is right for your business.</p>
-                            <p class="text-justify"><span class="uppercase">Your Privacy is important to us.</span></p>
+                            <p class="text-justify"> In order to verify the availability of our Business Internet services in your area, we need to know a little about your business. We will contact you shortly with a connectivity solution that is right for your business.</p>
+                            <p class="text-justify mb8 mt16"><span class="uppercase">Your Privacy is important to us</span></p>
                             <p>WiLine Networks will <span style="font-weight: 600;">never, ever</span> share your information with third parties, <span style="font-weight: 600;">not now and not ever</span>.</p>
                             <hr>
                             <p class="lead uppercase"><strong>WiLine Networks, Inc</strong></p>
-                            <p>1599 Industrial Road<br>San Carlos, CA<br>94070</p>
+                            <p>1233 Fannin St. <br>Houston, TX<br>77002</p>
                             <hr>
                             <p><strong>Email:</strong> sales@wiline.com</p>
-                            <p><strong>Sales:</strong><a href="tel:18884945463" title="Telephone WiLine Business Sales"> 1-346-222-5199</a>, Option 1</p>
-                            <p><strong>Support:</strong><a href="tel:18884945463" title="Telephone WiLine Business Internet Support"> 1-346-222-5199</a>, &nbsp;Option 2</p>
-                            <p><strong>Billing:</strong><a href="tel:18884945463" title="Telephone WiLine Billing Services"> 1-346-222-5199</a>, Option 3</p>
-                            <hr style="margin: 0;">
-                            <div class="widget m0 p0">
-                                <a id="bbblink" class="ruhzbum center" href="https://www.bbb.org/greater-san-francisco/business-reviews/internet-services/wiline-networks-in-san-carlos-ca-344479#bbbseal" title="WiLine Networks, Inc., Internet Services, San Carlos, CA" rel="nofollow" style="display: block;position: relative;overflow: hidden; width: 150px; height: 68px; margin: 20px 0px; padding: 0px;"><img style="padding: 0px; border: none;" id=bbblinkimg src="https://seal-goldengate.bbb.org/logo/ruhzbum/wiline-networks-344479.png" width=300 height=68 alt="WiLine Is committed to better customer service." /></a>
-                                <script>
-                                    var bbbprotocol = (("https:" == document.location.protocol) ? "https://" : "http://");
-                                    document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-goldengate.bbb.org' + unescape('%2Flogo%2Fwiline-networks-344479.js') + "' type='text/javascript'%3E%3C/script%3E"));
-                                </script>
-                            </div>
+                            <p><strong>Sales:</strong><a href="tel:18884945463" title="Telephone WiLine Business Sales"> 1-346-222-5199</a>, (Option 1)</p>
                         </div>
                     </div>
                 </div>
