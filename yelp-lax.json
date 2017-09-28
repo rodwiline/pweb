@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Inglewood",
+    "addressRegion": "CA",
+    "postalCode": "90301",
+    "streetAddress": "8915 South La Ciniega Blvd"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "12"
+  },
+  "name": "Gigabit Internet Service Provider for Business",
+
+  "telephone": "(888) 494-5463",
+  "url": "http://www.wiline.com/los-angeles-business-isp.php"
+}
+</script>

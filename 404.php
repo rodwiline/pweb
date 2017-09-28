@@ -26,7 +26,8 @@
 			<section class="cover fullscreen image-bg overlay parallax">
 		        <div class="background-image-holder">
 		            <img alt="WiLine's High Speed Data Network" class="background-image" src="https://www.wiline.com/img/404a.jpg">
-		        </div>
+				</div>
+				<div class="col-md-12 text-right bc-container"> <ol class="breadcrumb breadcrumb-2"> <li><a href="index.html">Home</a></li> <li class="active">Contact</li></ol> </div>
 		        <div class="container v-align-transform">
 		            <div class="row">
 		                <div class="mb40 col-sm-12 col-md-12">

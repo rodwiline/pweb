@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Irvine",
+    "addressRegion": "CA",
+    "postalCode": "92614",
+    "streetAddress": "1751 Langley Ave"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "14"
+  },
+  "name": "Gigabit Internet Service Provider for Business",
+
+  "telephone": "(888) 494-5463",
+  "url": "http://www.wiline.com"
+}
+</script>
